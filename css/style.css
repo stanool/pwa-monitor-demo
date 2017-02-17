@@ -363,6 +363,7 @@ header {
     color: #fff;
     transform: translateZ(0);
     backface-visibility: hidden;
+    z-index:100;
 }
 
 header h3 {
